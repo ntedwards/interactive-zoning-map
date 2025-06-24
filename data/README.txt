@@ -1,0 +1,1 @@
+This folder would contain GeoJSON zoning boundaries and use data.

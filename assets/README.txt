@@ -1,0 +1,1 @@
+This folder would contain your logo, styles, and other static assets.
